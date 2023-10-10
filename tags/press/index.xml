@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Press on Nautilus Project</title>
+    <link>https://project-nautilus.github.io/tags/press/</link>
+    <description>Recent content in Press on Nautilus Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://project-nautilus.github.io/tags/press/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nautilus podcast at PsicoEspai</title>
+      <link>https://project-nautilus.github.io/news/2023/02/08/psicoespai/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/news/2023/02/08/psicoespai/</guid>
+      <description>The Official College of Psychology in Lleida podcast PsicoEspai has published a podcast where Nautilus has been presented. The Cognitive Disorders Unit of Lleida, at the University Hospital of Santa Maria de Lleida, is one of the 24 centers that are part of the NAUTILUS project to promote an artificial intelligence platform to study the cognitive sequelae of people who have suffered from COVID-19. &amp;ldquo;Cognition, emotion/behavior, functionality and brain connectivity in patients recovered from COVID-19 (NAUTILUS)&amp;rdquo; is the name of the project led by the Consorci Sanitari de Terrassa, the University of Barcelona (UB) and the Universitat Politècnica de Catalunya (UPC ), which was funded in the last call for the Marathon (among other grants).</description>
+    </item>
+    
+    <item>
+      <title>Nautilus highlighted at regional press</title>
+      <link>https://project-nautilus.github.io/news/2021/07/20/startpress/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/news/2021/07/20/startpress/</guid>
+      <description>Nautilus project has started the first press outreach activities showcasing the project in several regional news media.
+ Segre Nació Digital LaMañana  Photo by AbsolutVision on Unsplash</description>
+    </item>
+    
+  </channel>
+</rss>

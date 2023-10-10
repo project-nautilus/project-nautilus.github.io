@@ -2,26 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nautilus Project</title>
-    <link>https://projecte-nautilus.github.io/tags/</link>
+    <link>https://project-nautilus.github.io/tags/</link>
     <description>Recent content in Tags on Nautilus Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://projecte-nautilus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://project-nautilus.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>COVID-19</title>
-      <link>https://projecte-nautilus.github.io/tags/covid-19/</link>
-      <pubDate>Thu, 03 Mar 2022 21:29:20 +0200</pubDate>
+      <link>https://project-nautilus.github.io/tags/covid-19/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://projecte-nautilus.github.io/tags/covid-19/</guid>
+      <guid>https://project-nautilus.github.io/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://project-nautilus.github.io/tags/publications/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/tags/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Press</title>
+      <link>https://project-nautilus.github.io/tags/press/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/tags/press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INTERVIEW</title>
+      <link>https://project-nautilus.github.io/tags/interview/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>https://project-nautilus.github.io/tags/conference/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/tags/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>study</title>
-      <link>https://projecte-nautilus.github.io/tags/study/</link>
-      <pubDate>Thu, 03 Mar 2022 21:29:20 +0200</pubDate>
+      <link>https://project-nautilus.github.io/tags/study/</link>
+      <pubDate>Fri, 10 Dec 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://projecte-nautilus.github.io/tags/study/</guid>
+      <guid>https://project-nautilus.github.io/tags/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog Post</title>
+      <link>https://project-nautilus.github.io/tags/blog-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/tags/blog-post/</guid>
       <description></description>
     </item>
     

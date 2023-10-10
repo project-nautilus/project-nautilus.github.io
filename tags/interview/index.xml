@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INTERVIEW on Nautilus Project</title>
+    <link>https://project-nautilus.github.io/tags/interview/</link>
+    <description>Recent content in INTERVIEW on Nautilus Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://project-nautilus.github.io/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nautilus at LaVozdDigital and Universitat Oberta de Catalunya</title>
+      <link>https://project-nautilus.github.io/news/2022/12/04/lavoz/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/news/2022/12/04/lavoz/</guid>
+      <description>Maite Garolera has been interviewed by LaVozDigital and Universitat Oberta de Catalunya to share her experience in Nautilus. Garolera talks about the cognitive effects of COVID-19, which are mild but have a significant social and economic impact. Moreover, she explains that some people who have recovered from COVID-19 experience brain fog, which is a difficulty in concentrating and focusing thoughts that can interfere with memory and learning. She says that the project will use artificial intelligence tools to try to predict which people are at risk of developing cognitive impairments and to understand the causes and mechanisms behind them.</description>
+    </item>
+    
+  </channel>
+</rss>

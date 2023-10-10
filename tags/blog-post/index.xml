@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Post on Nautilus Project</title>
+    <link>https://project-nautilus.github.io/tags/blog-post/</link>
+    <description>Recent content in Blog Post on Nautilus Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://project-nautilus.github.io/tags/blog-post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nautilus at Salut Mental 360</title>
+      <link>https://project-nautilus.github.io/news/1/01/01/som360/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/news/1/01/01/som360/</guid>
+      <description>Mar Ariza and Neus Cano researchers of C3-CST group have contributed to Salut Mental 360 portal with a blog post about Nautilus project. The blog post discusses the effects of COVID-19 on the brain, including potential cognitive and mental health issues. It also highlights the importance of research in this area, as well as the need for further understanding of the long-term consequences of COVID-19 on the brain and mental health.</description>
+    </item>
+    
+  </channel>
+</rss>

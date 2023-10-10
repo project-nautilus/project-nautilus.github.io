@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Nautilus Project</title>
+    <link>https://project-nautilus.github.io/tags/conference/</link>
+    <description>Recent content in Conference on Nautilus Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://project-nautilus.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nautilus at CaixaForum Madrid</title>
+      <link>https://project-nautilus.github.io/news/2022/11/17/caixaforum/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://project-nautilus.github.io/news/2022/11/17/caixaforum/</guid>
+      <description>Maite Garolera has presented Nautilus at CaixaForum Madrid in the workshop Neurological Effects and Neuropsychological Alterations due to COVID-19. Garolera presented Nautilus with the mission to try to understand what happens with cognition and how covid affects the central nervous system. Preliminary results from observational studies indicate that people who have been in the ICU have more serious cognitive problems. Regarding the affected domains, executive function, information processing speed and social cognition stand out above all.</description>
+    </item>
+    
+  </channel>
+</rss>
