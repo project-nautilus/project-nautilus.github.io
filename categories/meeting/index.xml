@@ -2,27 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meeting on Nautilus Project</title>
-    <link>https://projecte-nautilus.github.io/categories/meeting/</link>
+    <link>https://project-nautilus.github.io/categories/meeting/</link>
     <description>Recent content in meeting on Nautilus Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Feb 2022 21:29:20 +0200</lastBuildDate><atom:link href="https://projecte-nautilus.github.io/categories/meeting/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Clinical partners visit CST premises</title>
-      <link>https://projecte-nautilus.github.io/news/2022/02/17/workshop17-copy/</link>
-      <pubDate>Thu, 17 Feb 2022 21:29:20 +0200</pubDate>
-      
-      <guid>https://projecte-nautilus.github.io/news/2022/02/17/workshop17-copy/</guid>
-      <description>On Tuesday 17th, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</description>
-    </item>
-    
+    <lastBuildDate>Fri, 10 Dec 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://project-nautilus.github.io/categories/meeting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kick Off!</title>
-      <link>https://projecte-nautilus.github.io/news/2021/12/10/kickoff/</link>
+      <link>https://project-nautilus.github.io/news/2021/12/10/kickoff/</link>
       <pubDate>Fri, 10 Dec 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://projecte-nautilus.github.io/news/2021/12/10/kickoff/</guid>
-      <description>On the Xth of February 2021, the kick-off meeting of the NAUTILUS project took place at the premises of the Fundació Joan Costa Roma in Consorci Sanitari de Terrassa. Researchers from the different consortium members and supporting clinical centers met to kick off the project and discuss the study to be performed and agree on the different protocols and tasks. This meeting will guide the research actions in the coming months and support selecting participants in the study tests1.</description>
+      <guid>https://project-nautilus.github.io/news/2021/12/10/kickoff/</guid>
+      <description>On the 3th of February 2021, the kick-off meeting of the NAUTILUS project took place at the premises of the Fundació Joan Costa Roma in Consorci Sanitari de Terrassa. Researchers from the different consortium members and supporting clinical centers met to kick off the project and discuss the study to be performed and agree on the different protocols and tasks. This meeting will guide the research actions in the coming months and support selecting participants in the study tests1.</description>
     </item>
     
   </channel>
