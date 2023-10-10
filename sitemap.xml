@@ -2,49 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://projecte-nautilus.github.io/authors/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/authors/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/categories/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/categories/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/tags/covid-19/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/tags/covid-19/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/authors/cristian-barru%C3%A9/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/authors/cristian-barru%C3%A9/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/news/2022/03/03/workshop0302/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/news/2023/09/27/fesn/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/news/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/news/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/tags/study/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/categories/publications/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/categories/study/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/tags/publications/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/tags/</loc>
-    <lastmod>2022-03-03T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/tags/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/news/2022/02/17/workshop17-copy/</loc>
-    <lastmod>2022-02-17T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/news/2023/08/27/vpo23/</loc>
+    <lastmod>2023-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/categories/meeting/</loc>
-    <lastmod>2022-02-17T21:29:20+02:00</lastmod>
+    <loc>https://project-nautilus.github.io/news/2023/07/07/bioopt/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/news/2021/12/10/kickoff/</loc>
+    <loc>https://project-nautilus.github.io/news/2023/07/07/scnps23/</loc>
+    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/2023/06/16/cnn/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/2023/03/20/journeur23/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/2023/02/08/psicoespai/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/categories/press/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/tags/press/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/tags/interview/</loc>
+    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/2022/12/04/lavoz/</loc>
+    <lastmod>2022-12-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/tags/conference/</loc>
+    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/2022/11/17/caixaforum/</loc>
+    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/2022/10/20/frontiers22/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/2022/07/06/ins2022/</loc>
+    <lastmod>2022-07-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/2021/12/10/kickoff/</loc>
     <lastmod>2021-12-10T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/consortium/</loc>
+    <loc>https://project-nautilus.github.io/categories/meeting/</loc>
+    <lastmod>2021-12-10T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/contact/</loc>
+    <loc>https://project-nautilus.github.io/tags/study/</loc>
+    <lastmod>2021-12-10T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://projecte-nautilus.github.io/project/</loc>
+    <loc>https://project-nautilus.github.io/news/2021/07/20/startpress/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://project-nautilus.github.io/tags/blog-post/</loc>
+  </url><url>
+    <loc>https://project-nautilus.github.io/consortium/</loc>
+  </url><url>
+    <loc>https://project-nautilus.github.io/contact/</loc>
+  </url><url>
+    <loc>https://project-nautilus.github.io/news/1/01/01/som360/</loc>
+  </url><url>
+    <loc>https://project-nautilus.github.io/project/</loc>
   </url>
 </urlset>
