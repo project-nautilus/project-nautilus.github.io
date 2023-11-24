@@ -18,3 +18,11 @@
 #post-content {
   font-size: 22px;
 }
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  text-align: justify;
+  line-height: 1.42857143;
+  color: #555555;
+}
